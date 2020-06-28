@@ -1,0 +1,39 @@
+public class Main { 
+    
+     public static void main(String[] args) {
+         
+     
+		int [] array = {70,90,30,90,80,84,69,92,63,45};
+		
+		int [] array2 = new int [10];
+		
+		String	array = "StudentPercentge";
+		
+		String array2 = "letterGrade";
+		
+		v = "letterGrade";
+		
+		for(int i; i<100; i--){
+		}
+		System.println.out(i>array2);
+	}
+		public static void v(int x){
+        if (x>=90){
+            
+          System.out.println('A');
+     }
+     else if(X>=80){    
+          System.out.println('B');
+     }
+     else if(X>=70){
+          System.out.println('C');
+     }
+     else if(X>=60){  
+          System.out.println('D');
+     }
+     else if(X>=50){
+          System.out.println('F');
+     }       
+            
+        }
+		}
